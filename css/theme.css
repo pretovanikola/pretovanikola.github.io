@@ -550,6 +550,9 @@ ul.lead li {
 .bg-secondary {
   background: #f8f8f8;
 }
+.bg-zelena {
+  background: #98FB98;
+}
 .bg-white {
   background: #fff;
 }
@@ -788,9 +791,9 @@ footer.bg-dark li,
   background: #47b475;
   color: #fff;
 }
-.btn-blue {
-  background: #0000FF;
-  color: #fff !important;
+.btn-cerny {
+  background: #000;
+  color: #fff;
 }
 .btn-white,
 .image-bg .btn,
@@ -2150,10 +2153,6 @@ button[type="submit"] .form-loading {
   background: #47b475;
   color: #fff;
 }
-.accordion-1 .active2 .title {
-  background: #0000FF;
-  color: #fff;
-}
 .accordion-1 .content {
   border: 1px solid #eee;
   border-top: none;
@@ -2176,9 +2175,6 @@ button[type="submit"] .form-loading {
 }
 .accordion-1 .active .title:hover {
   background: #47b475;
-}
-.accordion-1 .active2 .title:hover {
-  background: #0011FF;
 }
 .accordion-2 .title {
   font-size: 16px;
@@ -5049,6 +5045,9 @@ footer.bg-dark a {
 .mb0 {
   margin-bottom: 0 !important;
 }
+.mb240 {
+  margin-bottom: 240px;
+}
 .mb8 {
   margin-bottom: 8px;
 }
@@ -5057,9 +5056,6 @@ footer.bg-dark a {
 }
 .mt8 {
   margin-top: 8px;
-}
-.mt40 {
-  margin-top: 40px;
 }
 .pt0 {
   padding-top: 0;
